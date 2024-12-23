@@ -1,0 +1,6 @@
+@startuml
+left to right directon
+:student: --> (test)
+:student: --> (notice)
+:student: --> (UNIVERSAL PASSPORT)
+@enduml
